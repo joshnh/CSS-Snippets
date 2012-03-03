@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[.cf:after,
+.cf:before {
+	content: '';
+	display: table;
+}
+.cf:after {
+	clear: both;
+}
+.cf {
+	zoom: 1;
+}
+
+]]></content>
+	<tabTrigger>cf</tabTrigger>
+    <description>CSS - clearfix</description>
+    <scope>source.css</scope>
+</snippet>

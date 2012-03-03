@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[line-height: 1.5;
+
+]]></content>
+	<tabTrigger>lin</tabTrigger>
+    <description>CSS - line-height: 1.5;</description>
+    <scope>source.css</scope>
+</snippet>

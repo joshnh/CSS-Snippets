@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[font: ${1:normal|italic|oblique} ${2:normal|small-caps} ${3:normal|bold|bolder|lighter} ${4:1em}/${5:1.5} ${6:sans-serif};
+
+]]></content>
+	<tabTrigger>fon</tabTrigger>
+    <description>CSS - font: 1em/1.5 sans-serif;</description>
+    <scope>source.css</scope>
+</snippet>

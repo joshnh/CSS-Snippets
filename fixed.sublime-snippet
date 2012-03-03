@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[position: fixed;
+
+]]></content>
+	<tabTrigger>fix</tabTrigger>
+    <description>CSS - position: fixed;</description>
+    <scope>source.css</scope>
+</snippet>

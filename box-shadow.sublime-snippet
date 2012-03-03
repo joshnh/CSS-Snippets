@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[-webkit-box-shadow: ${1:horizontal-offset} ${2:vertical-offset} ${3:blur-radius} ${4:spread-distance} ${5:hsla(0,0%,0%,.25)};
+        box-shadow: ${1:horizontal-offset} ${2:vertical-offset} ${3:blur-radius} ${4:spread-distance} ${5:hsla(0,0%,0%,.25)};
+
+]]></content>
+	<tabTrigger>sha</tabTrigger>
+    <description>CSS - box-shadow: ;</description>
+    <scope>source.css</scope>
+</snippet>

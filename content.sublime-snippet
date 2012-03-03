@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[content: '';
+
+]]></content>
+	<tabTrigger>con</tabTrigger>
+    <description>CSS - content: '';</description>
+    <scope>source.css</scope>
+</snippet>

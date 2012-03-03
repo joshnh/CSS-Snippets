@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[text-align: center;
+
+]]></content>
+	<tabTrigger>cen</tabTrigger>
+    <description>CSS - text-align: center;</description>
+    <scope>source.css</scope>
+</snippet>

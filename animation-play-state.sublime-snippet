@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[-webkit-animation-play-state: ${1:running|paused};
+   -moz-animation-play-state: ${1:running|paused};
+    -ms-animation-play-state: ${1:running|paused};
+     -o-animation-play-state: ${1:running|paused};
+        animation-play-state: ${1:running|paused};
+
+]]></content>
+	<tabTrigger>pla</tabTrigger>
+    <description>CSS - animation-play-state: ;</description>
+    <scope>source.css</scope>
+</snippet>

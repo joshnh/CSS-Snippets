@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[margin: 0;
+
+]]></content>
+	<tabTrigger>mar</tabTrigger>
+    <description>CSS - margin: 0;</description>
+    <scope>source.css</scope>
+</snippet>

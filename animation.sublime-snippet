@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[-webkit-animation: ${1:name} ${2:duration} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)} ${4:delay} ${5:infinite|<number>} ${6:normal|alternate};
+   -moz-animation: ${1:name} ${2:duration} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)} ${4:delay} ${5:infinite|<number>} ${6:normal|alternate};
+    -ms-animation: ${1:name} ${2:duration} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)} ${4:delay} ${5:infinite|<number>} ${6:normal|alternate};
+     -o-animation: ${1:name} ${2:duration} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)} ${4:delay} ${5:infinite|<number>} ${6:normal|alternate};
+        animation: ${1:name} ${2:duration} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)} ${4:delay} ${5:infinite|<number>} ${6:normal|alternate};
+
+]]></content>
+	<tabTrigger>ani</tabTrigger>
+    <description>CSS - animation: ;</description>
+    <scope>source.css</scope>
+</snippet>

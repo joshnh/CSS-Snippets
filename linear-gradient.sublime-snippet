@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[background-image: -webkit-linear-gradient(${1:top|left}, ${2:hsla(0,0%,100%,.1)}, ${3:hsla(0,0%,0%,.1)});
+background-image:    -moz-linear-gradient(${1:top|left}, ${2:hsla(0,0%,100%,.1)}, ${3:hsla(0,0%,0%,.1)});
+background-image:     -ms-linear-gradient(${1:top|left}, ${2:hsla(0,0%,100%,.1)}, ${3:hsla(0,0%,0%,.1)});
+background-image:      -o-linear-gradient(${1:top|left}, ${2:hsla(0,0%,100%,.1)}, ${3:hsla(0,0%,0%,.1)});
+background-image:         linear-gradient(${1:top|left}, ${2:hsla(0,0%,100%,.1)}, ${3:hsla(0,0%,0%,.1)});
+
+]]></content>
+	<tabTrigger>gra</tabTrigger>
+    <description>CSS - background-image: linear-gradient();</description>
+    <scope>source.css</scope>
+</snippet>

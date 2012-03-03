@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[cursor: ${1:auto|crosshair|default|pointer|move|e-resize|ne-resize|-resize|n-resize|se-resize|sw-resize|s-resize|w-resize|text|wait|help|progress};
+
+]]></content>
+	<tabTrigger>cur</tabTrigger>
+    <description>CSS - cursor: pointer;</description>
+    <scope>source.css</scope>
+</snippet>

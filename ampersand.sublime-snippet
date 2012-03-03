@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[.amp {
+    font-family: Baskerville, 'Goudy Old Style', Palatino, 'Book Antiqua', serif;
+    font-style: italic;
+    font-weight: normal;
+}
+
+]]></content>
+	<tabTrigger>amp</tabTrigger>
+    <description>CSS - .amp {}</description>
+    <scope>source.css</scope>
+</snippet>

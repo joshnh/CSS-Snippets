@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[text-decoration: none;
+
+]]></content>
+	<tabTrigger>non</tabTrigger>
+    <description>CSS - text-decoration: none;</description>
+    <scope>source.css</scope>
+</snippet>

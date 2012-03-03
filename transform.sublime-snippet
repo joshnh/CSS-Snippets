@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[-webkit-transform: $1;
+   -moz-transform: $1;
+    -ms-transform: $1;
+     -o-transform: $1;
+        transform: $1;
+
+]]></content>
+	<tabTrigger>transform</tabTrigger>
+    <description>CSS - transform: ;</description>
+    <scope>source.css</scope>
+</snippet>

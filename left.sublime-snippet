@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[left: 0;
+
+]]></content>
+	<tabTrigger>lef</tabTrigger>
+    <description>CSS - left: 0;</description>
+    <scope>source.css</scope>
+</snippet>

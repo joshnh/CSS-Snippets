@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[position: relative;
+
+]]></content>
+	<tabTrigger>rel</tabTrigger>
+    <description>CSS - position: relative;</description>
+    <scope>source.css</scope>
+</snippet>

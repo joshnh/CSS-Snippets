@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[font-family: sans-serif;
+
+]]></content>
+	<tabTrigger>san</tabTrigger>
+    <description>CSS - font-family: sans-serif;</description>
+    <scope>source.css</scope>
+</snippet>

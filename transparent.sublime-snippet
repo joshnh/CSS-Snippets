@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[transparent]]></content>
+	<tabTrigger>t</tabTrigger>
+    <description>CSS - hsla()</description>
+    <scope>source.css</scope>
+</snippet>

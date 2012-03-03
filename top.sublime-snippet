@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[top: 0;
+
+]]></content>
+	<tabTrigger>top</tabTrigger>
+    <description>CSS - top: 0;</description>
+    <scope>source.css</scope>
+</snippet>

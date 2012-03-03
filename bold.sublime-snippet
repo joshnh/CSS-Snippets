@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[font-weight: bold;
+
+]]></content>
+	<tabTrigger>bol</tabTrigger>
+    <description>CSS - font-weight: bold;</description>
+    <scope>source.css</scope>
+</snippet>

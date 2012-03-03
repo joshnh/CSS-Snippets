@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[font-family: serif;
+
+]]></content>
+	<tabTrigger>ser</tabTrigger>
+    <description>CSS - font-family: serif;</description>
+    <scope>source.css</scope>
+</snippet>

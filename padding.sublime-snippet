@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[padding: 0;
+
+]]></content>
+	<tabTrigger>pad</tabTrigger>
+    <description>CSS - padding: 0;</description>
+    <scope>source.css</scope>
+</snippet>

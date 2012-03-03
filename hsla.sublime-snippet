@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[hsla($1)
+
+]]></content>
+	<tabTrigger>hs</tabTrigger>
+    <description>CSS - hsla()</description>
+    <scope>source.css</scope>
+</snippet>

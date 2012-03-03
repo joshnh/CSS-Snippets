@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[$1:after {
+	content: '';
+	$2
+}
+
+]]></content>
+	<tabTrigger>aft</tabTrigger>
+    <description>CSS - :after</description>
+    <scope>source.css</scope>
+</snippet>

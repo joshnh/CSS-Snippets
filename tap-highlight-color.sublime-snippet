@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[-webkit-tap-highlight-color: hsla(0,0%,0%,.5);
+        tap-highlight-color: hsla(0,0%,0%,.5);
+
+]]></content>
+	<tabTrigger>tap</tabTrigger>
+    <description>CSS - tap-highlight-color: hsla(0,0%,0%,.5);</description>
+    <scope>source.css</scope>
+</snippet>

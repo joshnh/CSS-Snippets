@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[display: inline-block;
+vertical-align: top;
+zoom: 1;
+*display: inline;
+
+]]></content>
+	<tabTrigger>inl</tabTrigger>
+    <description>CSS - display: inline-block;</description>
+    <scope>source.css</scope>
+</snippet>

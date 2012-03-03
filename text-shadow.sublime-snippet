@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[text-shadow: $1;
+
+]]></content>
+	<tabTrigger>tex</tabTrigger>
+    <description>CSS - text-shadow: ;</description>
+    <scope>source.css</scope>
+</snippet>

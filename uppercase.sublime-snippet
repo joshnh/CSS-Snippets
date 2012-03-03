@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[text-transform: uppercase;
+
+]]></content>
+	<tabTrigger>upp</tabTrigger>
+    <description>CSS - text-transform: uppercase;</description>
+    <scope>source.css</scope>
+</snippet>

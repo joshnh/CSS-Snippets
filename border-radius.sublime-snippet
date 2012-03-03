@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[border-radius: $1;
+
+]]></content>
+	<tabTrigger>bor</tabTrigger>
+    <description>CSS - border-radius: ;</description>
+    <scope>source.css</scope>
+</snippet>

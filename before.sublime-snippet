@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[$1:before {
+	content: '';
+	$2
+}
+
+]]></content>
+	<tabTrigger>bef</tabTrigger>
+    <description>CSS - :before</description>
+    <scope>source.css</scope>
+</snippet>

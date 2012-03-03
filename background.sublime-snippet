@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[background: ${1:#fff} url('$2') ${3:0} ${4:0} ${5:repeat|repeat-x|repeat-y|no-repeat|inherit|round|space};
+
+]]></content>
+    <tabTrigger>bac</tabTrigger>
+    <description>CSS background: #fff url('') 0 0 repeat;</description>
+    <scope>source.css</scope>
+</snippet>
