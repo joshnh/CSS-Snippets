@@ -3,7 +3,7 @@ Sublime Text 2 CSS Snippets
 
 Type the snippet shortcode and then press TAB to complete the snippet.
 
-The snippets are listed below in alphabetical order (the '$0' indicates the position of the caret/s).
+The snippets are listed below in alphabetical order. The '$0' indicates the position of the caret/s.
 Some snippets have been set up so that pressing tab jumps the caret/s to the next predefined spot. 
 It's a little hard to explain, but any snippet that has a $1/$2/$3/etc. uses this technique.
 
