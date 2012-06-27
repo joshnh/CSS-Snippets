@@ -1,15 +1,14 @@
 Sublime Text 2 CSS Snippets
 ===========================
 
+Type the snippet shortcode and then press TAB to complete the snippet.
+
 The snippets are listed below in alphabetical order (the '$0' indicates the position of the caret/s).
-Some snippets have been set up so that pressing tab jumps the caret(s) to the next predefined spot. 
-It's a little hard to explain, but any snippet that has a $1/$2/$3/etc. uses this technique. It 
-should be familiar to Sublime users.
+Some snippets have been set up so that pressing tab jumps the caret/s to the next predefined spot. 
+It's a little hard to explain, but any snippet that has a $1/$2/$3/etc. uses this technique.
 
-Feel free to play with, alter, expand, or ruin these snippets as you please.
-
-I only ask that if you come up with a an incredibly handy snippet, or simply one that I have missed, 
-please let me know (via email, twitter, or as a comment on the original [blog post][1] so that I can 
+Feel free to play with, alter, expand, or ruin these snippets as you please. I only ask that if you come up with an incredibly handy snippet, or simply one that I have missed, 
+that you let me know (via email, twitter, or as a comment on the original [blog post][1]) so that I can 
 improve these for everybody. Thanks!
 [1]: http://joshnh.com/2012/02/a-collection-of-css-snippets-for-sublime-text-2/ "The original blog post."
 
