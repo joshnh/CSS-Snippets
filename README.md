@@ -1,6 +1,8 @@
 Sublime Text 2 CSS Snippets
 ===========================
 
+**UPDATE: The scope has been expanded to include Sass files.**
+
 Type the snippet shortcode and then press TAB to complete the snippet.
 
 The snippets are listed below in alphabetical order. The '$0' indicates the position of the caret/s.
