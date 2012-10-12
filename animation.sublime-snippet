@@ -8,5 +8,5 @@
 ]]></content>
 	<tabTrigger>ani</tabTrigger>
     <description>CSS - animation: ;</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>

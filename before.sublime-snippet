@@ -7,5 +7,5 @@
 ]]></content>
 	<tabTrigger>bef</tabTrigger>
     <description>CSS - :before</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>

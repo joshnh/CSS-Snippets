@@ -4,5 +4,5 @@
 ]]></content>
     <tabTrigger>bac</tabTrigger>
     <description>CSS background: #fff url('') 0 0 repeat;</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>

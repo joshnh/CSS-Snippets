@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>hs</tabTrigger>
     <description>CSS - hsla()</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>

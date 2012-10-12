@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>lef</tabTrigger>
     <description>CSS - left: 0;</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>

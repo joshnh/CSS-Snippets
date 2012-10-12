@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>fon</tabTrigger>
     <description>CSS - font: 1em/1.5 sans-serif;</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>

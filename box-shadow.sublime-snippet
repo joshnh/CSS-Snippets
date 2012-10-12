@@ -5,5 +5,5 @@
 ]]></content>
 	<tabTrigger>sha</tabTrigger>
     <description>CSS - box-shadow: ;</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>

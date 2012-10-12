@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>bot</tabTrigger>
     <description>CSS - bottom: 0;</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>

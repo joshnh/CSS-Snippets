@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>con</tabTrigger>
     <description>CSS - content: '';</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>

@@ -14,5 +14,5 @@
 ]]></content>
 	<tabTrigger>cf</tabTrigger>
     <description>CSS - clearfix</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>

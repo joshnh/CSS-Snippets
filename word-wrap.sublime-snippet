@@ -5,5 +5,5 @@ word-wrap: break-word;
 ]]></content>
 	<tabTrigger>wra</tabTrigger>
     <description>CSS - word-wrap</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>

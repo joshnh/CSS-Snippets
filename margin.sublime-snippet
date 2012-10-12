@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>mar</tabTrigger>
     <description>CSS - margin: 0;</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>

@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>hid</tabTrigger>
     <description>CSS - overflow: hidden;</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>

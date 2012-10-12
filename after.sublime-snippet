@@ -7,5 +7,5 @@
 ]]></content>
 	<tabTrigger>aft</tabTrigger>
     <description>CSS - :after</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>

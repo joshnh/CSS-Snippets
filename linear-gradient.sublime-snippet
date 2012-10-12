@@ -8,5 +8,5 @@ background-image:         linear-gradient(${1:top|left}, ${2:hsla(0,0%,100%,.1)}
 ]]></content>
 	<tabTrigger>gra</tabTrigger>
     <description>CSS - background-image: linear-gradient();</description>
-    <scope>source.css</scope>
+    <scope>source.css, source.sass</scope>
 </snippet>
