@@ -2,5 +2,5 @@
 	<content><![CDATA[transparent]]></content>
 	<tabTrigger>t</tabTrigger>
     <description>CSS - hsla()</description>
-    <scope>source.css, source.sass</scope>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
 </snippet>

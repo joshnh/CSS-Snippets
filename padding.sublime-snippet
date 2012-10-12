@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>pad</tabTrigger>
     <description>CSS - padding: 0;</description>
-    <scope>source.css, source.sass</scope>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
 </snippet>

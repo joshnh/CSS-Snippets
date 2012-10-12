@@ -8,5 +8,5 @@
 ]]></content>
 	<tabTrigger>transition</tabTrigger>
     <description>CSS - transition: ;</description>
-    <scope>source.css, source.sass</scope>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
 </snippet>

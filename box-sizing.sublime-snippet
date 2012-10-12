@@ -6,5 +6,5 @@
 ]]></content>
 	<tabTrigger>box</tabTrigger>
     <description>CSS - box-sizing: border-box;</description>
-    <scope>source.css, source.sass</scope>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
 </snippet>

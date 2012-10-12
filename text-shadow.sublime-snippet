@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>tex</tabTrigger>
     <description>CSS - text-shadow: ;</description>
-    <scope>source.css, source.sass</scope>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
 </snippet>
