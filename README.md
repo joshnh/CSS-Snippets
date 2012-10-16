@@ -1,7 +1,7 @@
 Sublime Text 2 CSS Snippets
 ===========================
 
-**UPDATE: The scope has been expanded to include Less, Sass and Stylus files.**
+**UPDATE: The scope has been expanded to include LESS, Sass and Stylus files.**
 
 Type the snippet shortcode and then press TAB to complete the snippet.
 
