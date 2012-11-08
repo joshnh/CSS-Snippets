@@ -7,5 +7,5 @@
 ]]></content>
 	<tabTrigger>hyp</tabTrigger>
     <description>CSS - hyphens: auto;</description>
-    <scope>source.css, source.less, source.sass, source.stylus</scope>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
 </snippet>

@@ -5,5 +5,5 @@
 ]]></content>
 	<tabTrigger>tap</tabTrigger>
     <description>CSS - tap-highlight-color: hsla(0,0%,0%,.5);</description>
-    <scope>source.css, source.less, source.sass, source.stylus</scope>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
 </snippet>

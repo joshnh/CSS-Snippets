@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>abs</tabTrigger>
     <description>CSS - position: absolute;</description>
-    <scope>source.css, source.less, source.sass, source.stylus</scope>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
 </snippet>
