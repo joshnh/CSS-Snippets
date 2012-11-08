@@ -3,10 +3,10 @@ Sublime Text 2 CSS Snippets
 
 **UPDATE: The scope has been expanded to include LESS, Sass and Stylus files.**
 
-Type the snippet shortcode and then press TAB to complete the snippet.
+Type the snippet shortcode and then press <kbd>Tab</kbd> to complete the snippet.
 
 The snippets are listed below in alphabetical order. The '$0' indicates the position of the caret/s.
-Some snippets have been set up so that pressing tab jumps the caret/s to the next predefined spot. 
+Some snippets have been set up so that pressing Tab jumps the caret/s to the next predefined spot. 
 It's a little hard to explain, but any snippet that has a $1/$2/$3/etc. uses this technique.
 
 Feel free to play with, alter, expand, or ruin these snippets as you please. I only ask that if you come up with an incredibly handy snippet, or simply one that I have missed, 
