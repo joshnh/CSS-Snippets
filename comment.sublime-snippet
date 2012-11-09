@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[/* $0 **************************************************/]]></content>
+	<content><![CDATA[/* $1 **************************************************/$2]]></content>
 	<tabTrigger>`</tabTrigger>
     <description>CSS - /* -----*/</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>
