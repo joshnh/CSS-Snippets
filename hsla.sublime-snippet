@@ -1,8 +1,6 @@
 <snippet>
-	<content><![CDATA[hsla($1)
-
-]]></content>
-	<tabTrigger>hs</tabTrigger>
+	<content><![CDATA[hsla(${1:0},${2:0}%,${3:0}%,${4:1})]]></content>
+	<tabTrigger>h</tabTrigger>
     <description>CSS - hsla()</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>
 </snippet>

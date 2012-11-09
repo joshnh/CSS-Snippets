@@ -2,9 +2,7 @@
 	<content><![CDATA[$1:after {
 	content: '';
 	$2
-}
-
-]]></content>
+}]]></content>
 	<tabTrigger>aft</tabTrigger>
     <description>CSS - :after</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

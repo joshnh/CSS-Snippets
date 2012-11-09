@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[content: '';
-
-]]></content>
+	<content><![CDATA[content: '$1';$2]]></content>
 	<tabTrigger>con</tabTrigger>
     <description>CSS - content: '';</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

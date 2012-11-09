@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[font-style: italic;
-
-]]></content>
+	<content><![CDATA[font-style: italic;]]></content>
 	<tabTrigger>ita</tabTrigger>
     <description>CSS - font-style: italic;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

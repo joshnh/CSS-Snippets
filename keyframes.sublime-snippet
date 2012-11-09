@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[@-webkit-keyframes $1 {
+	0% { $2 }
+	100% { $3 }
+}
+@-moz-keyframes $1 {
+	0% { $2 }
+	100% { $3 }
+}
+@-ms-keyframes $1 {
+	0% { $2 }
+	100% { $3 }
+}
+@-o-keyframes $1 {
+	0% { $2 }
+	100% { $3 }
+}
+@keyframes $1 {
+	0% { $2 }
+	100% { $3 }
+}]]></content>
+	<tabTrigger>key</tabTrigger>
+    <description>CSS - @keyframes {}</description>
+    <scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

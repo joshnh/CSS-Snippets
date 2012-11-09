@@ -3,9 +3,7 @@
    -moz-animation-fill-mode: ${1:none|forwards|backwards|both};
     -ms-animation-fill-mode: ${1:none|forwards|backwards|both};
      -o-animation-fill-mode: ${1:none|forwards|backwards|both};
-        animation-fill-mode: ${1:none|forwards|backwards|both};
-
-]]></content>
+        animation-fill-mode: ${1:none|forwards|backwards|both};]]></content>
 	<tabTrigger>fil</tabTrigger>
     <description>CSS - animation-fill-mode: ;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

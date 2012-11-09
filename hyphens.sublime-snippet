@@ -2,9 +2,7 @@
 	<content><![CDATA[-webkit-hyphens: auto;
    -moz-hyphens: auto;
     -ms-hyphens: auto;
-        hyphens: auto;
-
-]]></content>
+        hyphens: auto;]]></content>
 	<tabTrigger>hyp</tabTrigger>
     <description>CSS - hyphens: auto;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

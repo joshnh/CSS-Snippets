@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[line-height: 1.5;
-
-]]></content>
+	<content><![CDATA[line-height: ${1:1.5};$2]]></content>
 	<tabTrigger>lin</tabTrigger>
     <description>CSS - line-height: 1.5;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

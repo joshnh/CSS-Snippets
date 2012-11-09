@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[overflow: hidden;
-
-]]></content>
+	<content><![CDATA[overflow: hidden;]]></content>
 	<tabTrigger>hid</tabTrigger>
     <description>CSS - overflow: hidden;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

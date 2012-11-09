@@ -3,9 +3,7 @@
    -moz-transform: $1;
     -ms-transform: $1;
      -o-transform: $1;
-        transform: $1;
-
-]]></content>
+        transform: $1;]]></content>
 	<tabTrigger>transform</tabTrigger>
     <description>CSS - transform: ;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

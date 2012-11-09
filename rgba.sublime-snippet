@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[rgba($1)
-
-]]></content>
+	<content><![CDATA[rgba(${1:0},${2:0},${3:0},${4:1})]]></content>
 	<tabTrigger>r</tabTrigger>
     <description>CSS - rgba()</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

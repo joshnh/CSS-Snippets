@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[display: block;
-
-]]></content>
+	<content><![CDATA[display: block;]]></content>
 	<tabTrigger>blo</tabTrigger>
     <description>CSS - display: block;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

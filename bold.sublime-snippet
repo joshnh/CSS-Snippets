@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[font-weight: bold;
-
-]]></content>
+	<content><![CDATA[font-weight: bold;]]></content>
 	<tabTrigger>bol</tabTrigger>
     <description>CSS - font-weight: bold;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

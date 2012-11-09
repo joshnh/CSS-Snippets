@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[left: 0;
-
-]]></content>
+	<content><![CDATA[left: ${1:0};$2]]></content>
 	<tabTrigger>lef</tabTrigger>
     <description>CSS - left: 0;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[margin: 0;
-
-]]></content>
+	<content><![CDATA[margin: ${1:0};$2]]></content>
 	<tabTrigger>mar</tabTrigger>
     <description>CSS - margin: 0;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

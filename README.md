@@ -1,46 +1,44 @@
-Sublime Text 2 CSS Snippets
-===========================
+# Sublime Text 2 CSS Snippets
 
-**UPDATE: The scope has been expanded to include LESS, Sass and Stylus files.**
+__UPDATE: The scope has been expanded to include LESS, Sass and Stylus files.__
 
 Type the snippet shortcode and then press <kbd>Tab</kbd> to complete the snippet.
 
-The snippets are listed below in alphabetical order. The '$0' indicates the position of the caret/s.
-Some snippets have been set up so that pressing Tab jumps the caret/s to the next predefined spot. 
-It's a little hard to explain, but any snippet that has a $1/$2/$3/etc. uses this technique.
+The snippets are listed below in alphabetical order. The '$1' indicates the initial position of the caret/s.
+Some snippets have been set up so that pressing Tab jumps the caret/s to the next predefined spot.
+It's a little tricky to explain, but any snippet that has a $1/$2/$3/etc. uses this technique.
 
-Feel free to play with, alter, expand, or ruin these snippets as you please. I only ask that if you come up with an incredibly handy snippet, or simply one that I have missed, 
-that you let me know (via email, twitter, or as a comment on the original [blog post][1]) so that I can 
+Feel free to play with, alter, expand, or ruin these snippets as you please. I only ask that if you come up with an incredibly handy snippet, or simply one that I have missed,
+that you let me know (via email, Twitter, GitHub or as a comment on the original [blog post][1]) so that I can
 improve these for everybody. Thanks!
 [1]: http://joshnh.com/2012/02/a-collection-of-css-snippets-for-sublime-text-2/ "The original blog post."
 
+---
 
-
-**`**
+__`__
 
 That's a backtick in case you were unsure (it's on the same key as the tilde (~), directly above Tab).
 
-    /* $0 **************************************************/
+    /* $1 **************************************************/
 
-**abs**
+__abs__
 
     position: absolute;
-    $0
 
-**act**
+__act__
 
     $1:active {
-    	$2
+      $2
     }
 
-**aft**
+__aft__
 
     $1:after {
-    	content: '';
-    	$2
+      content: '';
+      $2
     }
 
-**amp**
+__amp__
 
 Wrap ampersand with <span class="amp"></span> to make them look sexy.
 
@@ -49,11 +47,10 @@ Wrap ampersand with <span class="amp"></span> to make them look sexy.
         font-style: italic;
         font-weight: normal;
     }
-    $0
 
-**ani**
+__ani__
 
-Animation shorthand: animation-name animation-duration animation-timing-function animation-delay 
+Animation shorthand: animation-name animation-duration animation-timing-function animation-delay
 animation-iteration-count animation-direction.
 
     -webkit-animation: ${1:name} ${2:duration} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)} ${4:delay} ${5:infinite|<number>} ${6:normal|alternate};
@@ -62,80 +59,72 @@ animation-iteration-count animation-direction.
          -o-animation: ${1:name} ${2:duration} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)} ${4:delay} ${5:infinite|<number>} ${6:normal|alternate};
             animation: ${1:name} ${2:duration} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)} ${4:delay} ${5:infinite|<number>} ${6:normal|alternate};
 
-**aut**
+__aut__
 
-    margin: 0 auto;
-    $0
+    margin: ${1:0} auto;
 
-**bac**
+__bac__
 
     background: ${1:#fff} url('$2') ${3:0} ${4:0} ${5:repeat|repeat-x|repeat-y|no-repeat|inherit|round|space};
 
-**bef**
+__bef__
 
     $1:before {
-    	content: '';
-    	$2
+      content: '';
+      $2
     }
 
-**blo**
+__blo__
 
     display: block;
-    $0
 
-**bol**
+__bol__
 
     font-weight: bold;
-    $0
 
-**bor**
+__bor__
 
-    border-radius: $0;
+    border-radius: $1;
 
-**bot**
+__bot__
 
-    bottom: 0;
-    $0
+    bottom: ${1:0};
 
-**box**
+__box__
 
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
             box-sizing: border-box;
-    $0
 
-**cen**
+__cen__
 
     text-align: center;
-    $0
 
-**cf**
+__cf__
 
 You should look at using inline-block for layouts instead of floats.
 
     .cf:after,
     .cf:before {
-    	content: '';
-    	display: table;
+      content: '';
+      display: table;
     }
     .cf:after {
-    	clear: both;
+      clear: both;
     }
     .cf {
-    	zoom: 1;
+      zoom: 1;
     }
-    $0
 
-**con**
+__con__
 
-    content: '';
-    $0
+    content: '$1';
 
-**cur**
+__cur__
 
     cursor: ${1:auto|crosshair|default|pointer|move|e-resize|ne-resize|-resize|n-resize|se-resize|sw-resize|s-resize|w-resize|text|wait|help|progress};
 
-**fil**
+__fil__
 
     -webkit-animation-fill-mode: ${1:none|forwards|backwards|both};
        -moz-animation-fill-mode: ${1:none|forwards|backwards|both};
@@ -143,138 +132,128 @@ You should look at using inline-block for layouts instead of floats.
          -o-animation-fill-mode: ${1:none|forwards|backwards|both};
             animation-fill-mode: ${1:none|forwards|backwards|both};
 
-**fix**
+__fix__
 
     position: fixed;
-    $0
 
-**fon**
+__fon__
 
-You don't need to declare a value for the line-height unless using pixels (1.5 is the same as 1.5em 
+You don't need to declare a value for the line-height unless using pixels (1.5 is the same as 1.5em
 or 150%).
 
     font: ${1:normal|italic|oblique} ${2:normal|small-caps} ${3:normal|bold|bolder|lighter} ${4:1em}/${5:1.5} ${6:sans-serif};
 
 
-**gra**
-It's a good idea to define a background color, and use alpha transparency with your gradients, that 
+__gra__
+It's a good idea to define a background color, and use alpha transparency with your gradients, that
 way you only need to alter a single value if you want to change the color of the background.
 
-    background-image: -webkit-linear-gradient($0);
-    background-image:    -moz-linear-gradient($0);
-    background-image:     -ms-linear-gradient($0);
-    background-image:      -o-linear-gradient($0);
-    background-image:         linear-gradient($0);
+    background-image: -webkit-linear-gradient($1);
+    background-image:    -moz-linear-gradient($1);
+    background-image:     -ms-linear-gradient($1);
+    background-image:      -o-linear-gradient($1);
+    background-image:         linear-gradient($1);
 
-**hid**
+__hid__
 
     overflow: hidden;
-    $0
 
-**hov**
+__hov__
 
-It is good (for accessibility reasons) to use the focus pseudo-class alongside the hover pseudo-class 
+It is good (for accessibility reasons) to use the focus pseudo-class alongside the hover pseudo-class
 when defining styles for anchors, there is no need for :focus in most other cases.
 
     $1:hover,
     $1:focus {
-    	$2
+      $2
     }
 
-**hs**
+__h__
 
-My preference over rgba(), and I have written [an article explaining][2] why
+My preference over rgba(), and I have written [an article][2] explaining why
 [2]: http://joshnh.com/2011/09/hsla-are-you-using-it-here-is-why-i-think-you-should-be/ "HSLA and You"
 
-    hsla($0)
+    hsla(${1:0},${2:0}%,${3:0}%,${4:1})
 
-**hyp**
+__hyp__
 
     -webkit-hyphens: auto;
        -moz-hyphens: auto;
         -ms-hyphens: auto;
             hyphens: auto;
-    $0
 
-**inl**
+__inl__
 
-Comment out the whitespace between elements in your markup if you need pixel perfect alignment 
+Comment out the whitespace between elements in your markup if you need pixel perfect alignment
 (although pixel perfection is not realistic).
 
     display: inline-block;
     vertical-align: top;
-    zoom: 1;
-    *display: inline;
-    $0
+    zoom: 1;${1: /* Fix for IE7 */}
+    *display: inline;${1: /* Fix for IE7 */}
 
-**ita**
+__ita__
 
     font-style: italic;
-    $0
 
-**key**
+__key__
 
-This snippet makes good use of Sublime Text 2's multiple selection capabilites. If you lose the 
+This snippet makes good use of Sublime Text 2's multiple selection capabilites. If you lose the
 multiple selection, a quick way to regain it is to select 'keyframes', hit CMD+D (CTRL+D on Windows)
-four times, and then use the arrow keys to navigate. Continuing to tab will reduce the caret back 
+four times, and then use the arrow keys to navigate. Continuing to tab will reduce the caret back
 down to a single selection, but you can also force it using ESC.
 
     @-webkit-keyframes $1 {
-    	0% { $2 }
-    	100% { $3 }
+      0% { $2 }
+      100% { $3 }
     }
     @-moz-keyframes $1 {
-    	0% { $2 }
-    	100% { $3 }
+      0% { $2 }
+      100% { $3 }
     }
     @-ms-keyframes $1 {
-    	0% { $2 }
-    	100% { $3 }
+      0% { $2 }
+      100% { $3 }
     }
     @-o-keyframes $1 {
-    	0% { $2 }
-    	100% { $3 }
+      0% { $2 }
+      100% { $3 }
     }
     @keyframes $1 {
-    	0% { $2 }
-    	100% { $3 }
+      0% { $2 }
+      100% { $3 }
     }
 
-**lef**
+__lef__
 
-    left: 0;
-    $0
+    left: ${1:0};
 
-**lin**
+__lin__
 
-    line-height: 1.5;
-    $0
+    line-height: ${1:1.5};
 
-**mar**
+__mar__
 
-    margin: 0;
-    $0
+    margin: ${1:0};
 
-**med**
+__med__
 
-When designing with a focus on responsiveness, using min-width is recommended (it means that smaller 
+When designing with a focus on responsiveness, using min-width is recommended (it means that smaller
 devices, such as mobiles, aren't applying styles that aren't being used).
 
     @media (min-width: $1) {
-    	$2
+      $2
     }
 
-**non**
+__non__
 
     text-decoration: none;
-    $0
 
-**pad**
+__pad__
 
-    padding: 0;
-    $0
+    padding: ${1:0};
 
-**pla**
+__pla__
 
     -webkit-animation-play-state: ${1:running|paused};
        -moz-animation-play-state: ${1:running|paused};
@@ -282,74 +261,67 @@ devices, such as mobiles, aren't applying styles that aren't being used).
          -o-animation-play-state: ${1:running|paused};
             animation-play-state: ${1:running|paused};
 
-**r**
+__r__
 
-My preference is hsla(), and I have written [an article explaining][2] why.
+My preference is hsla(), and I have written [an article][2] explaining why.
 
-    rgba($0)
+    rgba(${1:0},${2:0},${3:0},${4:1})
 
-**rel**
+__rel__
 
     position: relative;
-    $0
 
-**rig**
+__rig__
 
-    right: 0;
-    $0
+    right: ${1:0};
 
-**san**
+__san__
 
-    font-family: sans-serif;
-    $0
+    font-family: ${1:<font-name>,} sans-serif;
 
-**ser**
+__ser__
 
-    font-family: serif;
-    $0
+    font-family: ${1:<font-name>,} serif;
 
-**sha**
+__sha__
 
-    -webkit-box-shadow: ${1:horizontal-offset} ${2:vertical-offset} ${3:blur-radius} ${4:spread-distance} ${5:hsla(0,0%,0%,.25)};
-            box-shadow: ${1:horizontal-offset} ${2:vertical-offset} ${3:blur-radius} ${4:spread-distance} ${5:hsla(0,0%,0%,.25)};
+    box-shadow: ${1:horizontal-offset} ${2:vertical-offset} ${3:blur-radius} ${4:spread-distance} ${5:hsla(0,0%,0%,.25)};
 
-**t**
+__t__
 
-    transparent$0
+    transparent
 
-**tap**
+__tap__
 
 This overrides the highlight color on iPhones/iPads.
 
-    -webkit-tap-highlight-color: hsla(0,0%,0%,.5);
-            tap-highlight-color: hsla(0,0%,0%,.5);
-    $0
+    -webkit-tap-highlight-color: ${1:hsla(0,0%,0%,.5)};
+            tap-highlight-color: ${1:hsla(0,0%,0%,.5)};
 
-**tex**
+__tex__
 
 Use wisely, please keep readability in mind.
 
-    text-shadow: $0;
+    text-shadow: ${1:horizontal-offset} ${2:vertical-offset} ${3:blur-radius} ${4:hsla(0,0%,0%,.25)};
 
-**top**
+__top__
 
-    top: 0;
-    $0
+    top: ${1:0};
 
-**transform**
+__transform__
 
 This is too complex to write out all options.
 
-    -webkit-transform: $0;
-       -moz-transform: $0;
-        -ms-transform: $0;
-         -o-transform: $0;
-            transform: $0;
+    -webkit-transform: $1;
+       -moz-transform: $1;
+        -ms-transform: $1;
+         -o-transform: $1;
+            transform: $1;
 
-**transition**
+__transition__
 
 Transition shorthand: transition-propery transition-duration transition-timing-function
-transition-delay. The default values are: all 0 ease 0, this means that if you want to apply a 
+transition-delay. The default values are: all 0 ease 0, this means that if you want to apply a
 transition to all properties, using the ease timing-function, you only need to declare the duration
 (e.g. transition: .5s;).
 
@@ -359,17 +331,15 @@ transition to all properties, using the ease timing-function, you only need to d
          -o-transition: ${1:all} ${2:.25s} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)};
             transition: ${1:all} ${2:.25s} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)};
 
-**upp**
+__upp__
 
     text-transform: uppercase;
-    $0
 
-**wra**
+__wra__
 
-For legacy reasons, UAs may also accept ‘word-wrap’ as an alternate name for the 
+For legacy reasons, UAs may also accept ‘word-wrap’ as an alternate name for the
 'overflow-wrap' property. However this syntax non-conforming in author style sheets.
 (http://www.w3.org/TR/css3-text/#overflow-wrap)
 
     overflow-wrap: break-word;
     word-wrap: break-word;
-    $0

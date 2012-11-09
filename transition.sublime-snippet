@@ -3,9 +3,7 @@
    -moz-transition: ${1:all} ${2:.25s} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)};
     -ms-transition: ${1:all} ${2:.25s} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)};
      -o-transition: ${1:all} ${2:.25s} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)};
-        transition: ${1:all} ${2:.25s} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)};
-
-]]></content>
+        transition: ${1:all} ${2:.25s} ${3:ease|linear|ease-in|ease-out|ease-in-out|cubic-bezier(<number>,<number>,<number>,<number>)};]]></content>
 	<tabTrigger>transition</tabTrigger>
     <description>CSS - transition: ;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[text-decoration: none;
-
-]]></content>
+	<content><![CDATA[text-decoration: none;]]></content>
 	<tabTrigger>non</tabTrigger>
     <description>CSS - text-decoration: none;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

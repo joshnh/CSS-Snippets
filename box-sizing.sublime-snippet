@@ -1,9 +1,7 @@
 <snippet>
 	<content><![CDATA[-webkit-box-sizing: border-box;
    -moz-box-sizing: border-box;
-        box-sizing: border-box;
-
-]]></content>
+        box-sizing: border-box;]]></content>
 	<tabTrigger>box</tabTrigger>
     <description>CSS - box-sizing: border-box;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

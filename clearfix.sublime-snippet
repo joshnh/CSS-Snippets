@@ -9,9 +9,7 @@
 }
 .cf {
 	zoom: 1;
-}
-
-]]></content>
+}]]></content>
 	<tabTrigger>cf</tabTrigger>
     <description>CSS - clearfix</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>

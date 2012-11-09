@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[font-family: serif;
-
-]]></content>
+	<content><![CDATA[font-family: ${1:<font-name>,} serif;$2]]></content>
 	<tabTrigger>ser</tabTrigger>
     <description>CSS - font-family: serif;</description>
     <scope>source.css, source.less, source.scss, source.stylus</scope>
