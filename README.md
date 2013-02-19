@@ -291,6 +291,12 @@ My preference is hsla(), and I have written [an article explaining][2] why.
     position: relative;
     $0
 
+**rf**
+
+Reset filters for use with IE9 mainly.
+
+    filter: "progid:DXImageTransform.Microsoft.gradient(enabled = false)";
+
 **rig**
 
     right: 0;
