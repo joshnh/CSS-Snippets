@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[filter: "progid:DXImageTransform.Microsoft.gradient(enabled = false)";
+
+]]></content>
+	<tabTrigger>rf</tabTrigger>
+    <description>CSS - reset filter - filter: "progid:DXImageTransform.Microsoft.gradient(enabled = false)";</description>
+    <scope>source.css</scope>
+</snippet>
