@@ -1,4 +1,4 @@
-# Sublime Text 2 CSS Snippets
+# Sublime Text CSS Snippets
 
 __UPDATE: The scope has been expanded to include LESS, Sass and Stylus files.__
 
