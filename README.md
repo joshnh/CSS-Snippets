@@ -4,14 +4,9 @@ __UPDATE: The scope has been expanded to include LESS, Sass and Stylus files.__
 
 Type the snippet shortcode and then press <kbd>Tab</kbd> to complete the snippet.
 
-The snippets are listed below in alphabetical order. The '$1' indicates the initial position of the caret/s.
-Some snippets have been set up so that pressing Tab jumps the caret/s to the next predefined spot.
-It's a little tricky to explain, but any snippet that has a $1/$2/$3/etc. uses this technique.
+The snippets are listed below in alphabetical order. The '$1' indicates the initial position of the caret/s. Some snippets have been set up so that pressing Tab jumps the caret/s to the next predefined spot. It's a little tricky to explain, but any snippet that has a $1/$2/$3/etc. uses this technique.
 
-Feel free to play with, alter, expand, or ruin these snippets as you please. I only ask that if you come up with an incredibly handy snippet, or simply one that I have missed,
-that you let me know (via email, Twitter, GitHub or as a comment on the original [blog post][1]) so that I can
-improve these for everybody. Thanks!
-[1]: http://joshnh.com/2012/02/a-collection-of-css-snippets-for-sublime-text-2/ "The original blog post."
+Feel free to play with, alter, expand, or ruin these snippets as you please. I only ask that if you come up with an incredibly handy snippet, or simply one that I have missed, that you let me know so that I can improve these for everybody. Thanks!
 
 ---
 
